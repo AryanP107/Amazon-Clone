@@ -22,7 +22,6 @@ The Amazon Clone mimics the homepage of Amazon, featuring a clean layout with a 
 
 ### Desktop View
 ![Amazon Clone Desktop](screenshot/Desktop.png)
-![Amazone Clone Preview](screenshot/Amazon%20Clone.mov)
 
 ---
 
