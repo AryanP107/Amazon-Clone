@@ -21,6 +21,7 @@ The Amazon Clone mimics the homepage of Amazon, featuring a clean layout with a 
 ## 📸 Screenshots
 
 ### Desktop View
+
 ![Amazon Clone Desktop](screenshot/Desktop.png)
 
 ---
@@ -32,4 +33,12 @@ To view this project on your local machine, follow these simple steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/AryanP107/Amazon-Clone.git
+   ```
 
+## Author
+
+Aryan Panchal
+
+GitHub: [AryanP107](https://github.com/AryanP107)
+<br>
+Email: aryanpanchal107@gmail.com
